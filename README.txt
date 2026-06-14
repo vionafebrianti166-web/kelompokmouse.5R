@@ -1,0 +1,12 @@
+Struktur project
+- index.html
+- style.css
+- script.js
+- assets/
+  - logo-tkj-smkn36.png
+  - logo-smkn36.png
+  - crimping-tool.svg
+  - router.svg
+  - switch.svg
+  - lan-tester.svg
+  - cable.svg
